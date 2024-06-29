@@ -502,3 +502,7 @@ dialog::backdrop {
   }
    
 }
+
+body{
+  line-height: 0;
+}
