@@ -4,6 +4,10 @@
     font-family: "Inter", sans-serif;
 }
 
+html{
+    font-size: 16px;
+}
+
 body img {
     cursor: pointer;
  }
